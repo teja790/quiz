@@ -1,0 +1,52 @@
+body
+{
+     background-color: deeppink;
+}
+
+
+.login_div1, .login_div2
+{
+    
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player1_name, #player2_name
+{
+    display: inline-block; 
+    margin-left: 20px;
+    background-color: aqua;
+    padding: 10px;
+
+}
+
+#word
+{
+    width: 60%;
+    height: auto;
+}
+#word_display
+{
+    letter-spacing: 5px;
+    text-align: center;
+}
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+
+}
+h1{
+    text-decoration: underline;
+    font-size: blue;
+    text-decoration-color: forestgreen;
+}
+
+label {
+  cursor: default;
+}
